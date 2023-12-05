@@ -1,3 +1,4 @@
+// O(N) solution using HashMap
 use std::collections::HashMap;
 
 impl Solution {

@@ -1,3 +1,4 @@
+// Dynamic Programming, O(m*n) time, O(m*n) space
 impl Solution {
     pub fn unique_paths(m: i32, n: i32) -> i32 {
         let (m, n) = (m as usize, n as usize);
